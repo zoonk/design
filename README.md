@@ -2,6 +2,7 @@
 
 This repository contains all design resources for building Zoonk products and creating marketing materials.
 
-## Visual Identity
+## Figma Resources
 
-- [See on Figma](https://www.figma.com/community/file/1468658456061518013)
+- [Visual Identity](https://www.figma.com/community/file/1468658456061518013): Logo, colors, wordmarks, etc.
+- [Social Media](https://www.figma.com/community/file/1468663276241789121): Covers, image posts, etc.
