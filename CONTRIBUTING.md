@@ -6,4 +6,4 @@ Zoonk is still in its early stages, and many things are evolving quickly. If you
 
 - **Comment on Figma** – Share your thoughts directly on [our Figma files](https://figma.com/@zoonk).
 - **Start a discussion** – Open a discussion [here on GitHub](https://github.com/zoonk/design/discussions/new/choose).
-- **Email us** – Reach out at design@zoonk.org.
+- **Email us** – Reach out at design@zoonk.com.
